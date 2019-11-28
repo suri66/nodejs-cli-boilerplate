@@ -32,9 +32,9 @@ Now you need to set up your project:
 |Logger                       |
 |CRUD Middleware              |
 |Dynamic Routes Configuration |
-|.env                         |
-|Environment Configuration    |
 |Views                        |
+|Environment Configuration    |
+|.env                         |
 |.gitignore                   |
 
 
