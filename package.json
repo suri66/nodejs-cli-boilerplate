@@ -1,6 +1,6 @@
 {
   "name": "node-dynamic-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJs CLI for creating dynamic boilerplate",
   "main": "cli.js",
   "scripts": {
