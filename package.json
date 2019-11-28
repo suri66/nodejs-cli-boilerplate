@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate-cli",
+  "name": "nodeboiler",
   "version": "1.0.0",
   "description": "NodeJs CLI for creating dynamic boilerplate",
   "main": "cli.js",
@@ -15,7 +15,7 @@
     "nodejs-boilerplate",
     "nodejs-cli",
     "node-mongodb-boilerplate",
-    "node-mongoose-boilerplate"
+    "node-mongoose-boilerplate",
     "nodeboiler"
   ],
   "bin": {
