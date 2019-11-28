@@ -54,3 +54,12 @@ Now you need to set up your project:
 |Mailer                   |
 |Authentication           |
 |File Upload              |
+
+
+# Upcoming Templates:
+
+|    Upcoming Templates              |
+|------------------------------------|
+|NodeJs with Native Mongo Client     |
+|NodeJs with Sequalize               |
+|Any suggestions are welcome         |
