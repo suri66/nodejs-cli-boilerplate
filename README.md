@@ -1,16 +1,16 @@
-# Welcome to NodeBoiler!
+# Welcome to node-dynamic-boilerplate!
 Hi! This is a cli project. You can generate nodejs project using the **CLI**.
 
 
 ## Installation
 
-`npm install -g nodeboiler`
+`npm install -g node-dynamic-boilerplate`
 
 ## Create a NodeJS Boilerplate from CLI.
 
-`nodeboiler <app name>` // app name is optional
+`node-dynamic-boilerplate <app name>` // app name is optional
 
-# So your project is created now!
+## So your project is created now!
 
 Now you need to set up your project:
 

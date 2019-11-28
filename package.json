@@ -1,5 +1,5 @@
 {
-  "name": "nodeboiler",
+  "name": "node-dynamic-boilerplate",
   "version": "1.0.0",
   "description": "NodeJs CLI for creating dynamic boilerplate",
   "main": "cli.js",
@@ -16,10 +16,10 @@
     "nodejs-cli",
     "node-mongodb-boilerplate",
     "node-mongoose-boilerplate",
-    "nodeboiler"
+    "node-dynamic-boilerplate"
   ],
   "bin": {
-    "nodeboiler": "./cli.js"
+    "node-dynamic-boilerplate": "./cli.js"
   },
   "author": "Surjeet Bhadauriya",
   "license": "MIT",
