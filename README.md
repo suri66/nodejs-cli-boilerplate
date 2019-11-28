@@ -23,6 +23,11 @@ Now you need to set up your project:
 > npm start OR node bin/www or nodemon
 
 
+# Project Structure
+
+![alt mongoose-project-structure-image](https://raw.githubusercontent.com/suri66/nodejs-cli-boilerplate/master/templates/mongoose/public/images/Mogoose-Project-Structure.png)
+
+
 # Features:
 
 |  Feature                    |
