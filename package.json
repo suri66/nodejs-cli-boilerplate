@@ -1,0 +1,47 @@
+{
+  "name": "boilerplate-cli",
+  "version": "1.0.0",
+  "description": "NodeJs CLI for creating dynamic boilerplate",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suri66/nodejs-cli-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "nodejs-boilerplate",
+    "nodejs-cli",
+    "node-mongodb-boilerplate",
+    "node-mongoose-boilerplate"
+    "nodeboiler"
+  ],
+  "bin": {
+    "nodeboiler": "./cli.js"
+  },
+  "author": "Surjeet Bhadauriya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suri66/nodejs-cli-boilerplate/issues"
+  },
+  "homepage": "https://github.com/suri66/nodejs-cli-boilerplate#readme",
+  "dependencies": {
+    "@octokit/rest": "^16.35.0",
+    "arg": "^4.1.2",
+    "chalk": "^3.0.0",
+    "clear": "^0.1.0",
+    "cli-progress": "^3.4.0",
+    "clui": "^0.3.6",
+    "configstore": "^5.0.0",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.0",
+    "lodash": "^4.17.15",
+    "minimist": "^1.2.0",
+    "ncp": "^2.0.0",
+    "simple-git": "^1.126.0",
+    "touch": "^3.1.0",
+    "treeify": "^1.1.0"
+  }
+}
