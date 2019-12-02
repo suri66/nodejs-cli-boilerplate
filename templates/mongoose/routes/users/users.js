@@ -5,9 +5,9 @@ const UsersModel = require("./users.model");
 const middleware = require("../../lib/middleware/middleware");
 
 // fetch all
-router.get("/", async function(req, res, next) {
+router.get("/", async function(req, res, next) {  
   try {
-    let result = await middleware.getAll(UsersModel, {});
+    let result = await middleware.getAll(UsersModel, {}, req.query);
     res.send({
       data: result,
       message: "Users fetched successfully",

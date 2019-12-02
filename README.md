@@ -8,11 +8,11 @@ Hi! This is a cli project. You can generate nodejs project using the **CLI**.
 
 ## Create a NodeJS Boilerplate from CLI.
 
+Run below command in your terminal specifying your app name
+
 `node-dynamic-boilerplate <app name>` // app name is optional
 
-## So your project is created now!
-
-Now you need to set up your project:
+#### So your project is created now. Now you need to set up your project.
 
 ## Steps to set up project:
 
@@ -30,17 +30,20 @@ Now you need to set up your project:
 
 # Features:
 
-|  Feature                    |
-|-----------------------------|
-|Mongoose Connection          |
-|CRUD                         |
-|Logger                       |
-|CRUD Middleware              |
-|Dynamic Routes Configuration |
-|Views                        |
-|Environment Configuration    |
-|.env                         |
-|.gitignore                   |
+|  Feature                    |   Version           |
+|-----------------------------|---------------------|
+|Mongoose DB Connection       |   1.0.1             |
+|Dynamic CRUD Middleware      |   1.0.1             |
+|Dynamic Routes Configuration |   1.0.1             |
+|Seeder                       |   1.0.1             |
+|Logger                       |   1.0.1             |
+|Views                        |   1.0.1             |
+|Environment Configuration    |   1.0.1             |
+|.env                         |   1.0.1             |
+|.gitignore                   |   1.0.1             |
+|Sorting                      |   1.0.2             |
+|Pagination                   |   1.0.2             |
+|Limit fields                 |   1.0.2             |
 
 
 
@@ -48,18 +51,16 @@ Now you need to set up your project:
 
 |    Upcoming Feature     |
 |-------------------------|
-|Sorting                  |
-|Pagination               |
-|Limit fields             |
 |Mailer                   |
 |Authentication           |
 |File Upload              |
+|Global Error Handler     |
 
 
 # Upcoming Templates:
 
-|    Upcoming Templates              |
-|------------------------------------|
-|NodeJs with Native Mongo Client     |
-|NodeJs with Sequalize               |
-|Any suggestions are welcome         |
+|    Upcoming Templates               |
+|-------------------------------------|
+|NodeJs with Native Mongo Client      |
+|NodeJs with Sequalize (Postgres SQL) |
+|Any suggestions are welcome          |
